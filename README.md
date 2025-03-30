@@ -25,7 +25,7 @@ Below is a list of internal documentation organized by topics:
 
 1. Clone the repository:
    ```bash
-   git clone <c-t-dev/my-docs>
+   git clone https://github.com/c-t-dev/my-docs.git
    ```
 2. Navigate through the directories to find the documentation you need.
 3. Add or update notes as necessary and commit your changes.
